@@ -5589,3 +5589,4 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+- [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) - OWASP-backed Python middleware to detect and block memory poisoning attacks in LLM agents. `pip install agent-memory-guard`
